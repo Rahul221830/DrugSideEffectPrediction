@@ -8,4 +8,9 @@ Developed a machine learning-based system to predict potential adverse drug reac
 * Evaluated model performance using metrics such as precision, recall, F1-score, and ROC-AUC.
 * Visualized model insights to identify high-risk compounds and understand feature importance in side effect prediction.
 # Technologies Used:
-* Python, TensorFlow / PyTorch, Scikit-learn, Pandas, NumPy, RDKit, Matplotlib, Seaborn 
+* Python, TensorFlow / PyTorch, Scikit-learn, Pandas, NumPy, RDKit, Matplotlib, Seaborn
+# output : 
+
+<img width="1268" height="730" alt="image" src="https://github.com/user-attachments/assets/5728dcf9-5927-47a9-804a-fb40e5754bbc" />
+
+![Uploading image.png…]()
