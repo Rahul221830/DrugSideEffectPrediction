@@ -13,4 +13,4 @@ Developed a machine learning-based system to predict potential adverse drug reac
 
 <img width="1268" height="730" alt="image" src="https://github.com/user-attachments/assets/5728dcf9-5927-47a9-804a-fb40e5754bbc" />
 
-![Uploading image.png…]()
+<img width="1231" height="702" alt="image" src="https://github.com/user-attachments/assets/eeb7129c-0fe4-4f99-98a5-85d74805fae7" />
